@@ -1,8 +1,8 @@
 $(function() {
     $('.mainimg-tate').vegas({
         slides: [
-            { src: 'images/IMG_0128.jpeg' },
-            { src: 'images/IMG_0142.jpeg' },	//1枚目の写真指定
+            { src: 'images/IMG_0128.jpg' },
+            { src: 'images/IMG_0142.jpg' },	//1枚目の写真指定
             { src: 'kaito.jpeg' },	//2枚目の写真指定
            	
         ],
