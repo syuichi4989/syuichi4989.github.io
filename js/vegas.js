@@ -3,8 +3,7 @@ $(function() {
         slides: [
             { src: 'images/IMG_0128.jpg' },
             { src: 'images/IMG_0142.jpg' },	//1枚目の写真指定
-            { src: 'kaito.jpeg' },	//2枚目の写真指定
-           	
+            { src: 'images/kaito.jpg' },    //2枚目の写真指定
         ],
 		transition: 'blur',			//https://vegas.jaysalvat.com/documentation/transitions/から好みのtransitionを選んで置き換えられます。
 		animation: 'kenburns',		//https://vegas.jaysalvat.com/documentation/transitions/から好みのanimationを選んで置き換えられます。
